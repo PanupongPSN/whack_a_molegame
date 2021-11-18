@@ -1,4 +1,4 @@
-package whacksrcc;
+package Game3;
 import java.awt.Container;
 import java.awt.Color;
 import java.awt.Font;
